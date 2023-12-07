@@ -5,7 +5,7 @@ import { FaFacebookF } from "react-icons/fa";
 
 import "../Styles/Footer.css";
 
-// import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom {new Date().getFullYear()}";
 
 const Footer = () => {
   return (
@@ -75,7 +75,7 @@ const Footer = () => {
         <Row className="mt-5">
           <Col lg="12" md="12">
             <p className="copyright__text">
-            © 2021 {new Date().getFullYear()}, Creacted by<a href="https://www.instagram.com/akshay.k.gehlot/" title="akshay"></a> Akshay Gehlot. All Rights
+            © 2023, Creacted by<a href="https://www.instagram.com/akshay.k.gehlot/" title="akshay"></a> Akshay Gehlot. All Rights
               Reserved.   
             </p>
           </Col>
